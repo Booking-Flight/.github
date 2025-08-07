@@ -36,7 +36,7 @@ Please see the project's features in action through the demo videos below.
 ### 🎥 Project Overview Demo
 
 
-*Click here to view the project overview video on Google Drive.*[Project demo](https://drive.google.com/drive/folders/1nUoDji1EEHVjO7A3h0OSh0gq6ROaDO6S?usp=drive_link)
+*Click [here](https://drive.google.com/drive/folders/1nUoDji1EEHVjO7A3h0OSh0gq6ROaDO6S?usp=drive_link) to view the project overview video on Google Drive.*
 
 ---
 
